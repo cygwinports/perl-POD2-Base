@@ -1,0 +1,11 @@
+CPAN_AUTHOR=ferreira
+inherit perl
+
+NAME="perl-POD2-Base"
+VERSION=0.043
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl POD translation base class"
+DESCRIPTION="This module is an abstraction of the code in POD2::IT and POD2::FR.
+These modules belong to the Italian and the French translation projects of core
+Perl pods."
